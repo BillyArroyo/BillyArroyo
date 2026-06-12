@@ -1,34 +1,28 @@
-<h1 align="center">Billy Patrick Arroyo Ramírez</h1>
-<h3 align="center">Mobile & Full Stack Developer · Huancayo, Perú</h3>
+# Hi 👋, I'm Billy Arroyo!
+
+Mobile & Full Stack Developer based in Huancayo, Perú 🇵🇪
+
+I build real products for real clients — from mobile apps to web platforms.  
+Founder of **CP-Techs**, a web agency focused on small business solutions.
 
 ---
 
-### Sobre mí
+### I code with
 
-Ingeniero de Sistemas e Informática (Universidad Continental).
-Desarrollo aplicaciones móviles y web para clientes reales.
-Fundador de **CP-Techs**, agencia de desarrollo web.
-
----
-
-### Stack
-
-**Mobile:** Flutter · Firebase  
-**Web:** Next.js · React · TypeScript · Supabase  
-**Tools:** Git · GitHub · Figma · VS Code
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,nextjs,react,typescript,supabase,git,github,vscode,unity,cs" />
+</p>
 
 ---
 
-### Proyectos destacados
+### Connect with me
 
-| Proyecto | Descripción | Tech |
-|----------|-------------|------|
-| [FarmaLink](https://github.com/BillyArroyo) | Sistema B2B para distribuidora farmacéutica | React · Supabase |
-| FerreBoom | App móvil para ferretería (cliente + admin) | Flutter · Firebase |
-| ProyectoVideoJuegos | Videojuego 2D en equipo | Unity · C# |
-
----
-
-<p align="center">
-  <a href="mailto:billyarroyo@gmail.com">Contacto</a>
+<p>
+  <a href="https://www.linkedin.com/in/billy-patrick-arroyo-ramirez-115562189/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  &nbsp;
+  <a href="mailto:onichichi.25@outlook.com">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+  </a>
 </p>
