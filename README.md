@@ -10,11 +10,11 @@
 ### Sobre mí / About me
 
 🇵🇪 Huancayo, Perú  
-📱 Desarrollador móvil y full stack con experiencia en productos reales para clientes reales.  
-🚀 Fundador de **CP-Techs**, agencia de desarrollo web enfocada en soluciones para pequeñas empresas.  
-🎓 Estudiante de último año en **Universidad Continental**.  
-⛪ Líder del ministerio de medios y redes en **Iglesia Bautista La Ribera**.  
-🎮 Actualmente desarrollando videojuegos en **Unity** como proyecto universitario.
+Desarrollador móvil y full stack con experiencia en productos reales para clientes reales.  
+Fundador de **CP-Techs**, agencia de desarrollo web enfocada en soluciones para pequeñas empresas.  
+Estudiante de último año en **Universidad Continental**.  
+Líder del ministerio de medios y redes en **Iglesia Bautista La Ribera**.  
+Actualmente desarrollando videojuegos en **Unity** como proyecto universitario.
 
 ---
 
