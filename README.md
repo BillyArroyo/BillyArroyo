@@ -1,21 +1,32 @@
-# Hi 👋, I'm Billy Arroyo!
+<h1 align="center">¡Hola! 👋 Soy Billy Patrick Arroyo Ramírez</h1>
+<h1 align="center">Hi! 👋 I'm Billy Patrick Arroyo Ramírez</h1>
 
-Mobile & Full Stack Developer based in Huancayo, Perú 🇵🇪
-
-I build real products for real clients — from mobile apps to web platforms.  
-Founder of **CP-Techs**, a web agency focused on small business solutions.
-
----
-
-### I code with
-
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,nextjs,react,typescript,supabase,git,github,vscode,unity,cs" />
+<p align="center">
+  Ingeniero de Sistemas e Informática · Systems & Informatics Engineer
 </p>
 
 ---
 
-### Connect with me
+### Sobre mí / About me
+
+🇵🇪 Huancayo, Perú  
+📱 Desarrollador móvil y full stack con experiencia en productos reales para clientes reales.  
+🚀 Fundador de **CP-Techs**, agencia de desarrollo web enfocada en soluciones para pequeñas empresas.  
+🎓 Estudiante de último año en **Universidad Continental**.  
+⛪ Líder del ministerio de medios y redes en **Iglesia Bautista La Ribera**.  
+🎮 Actualmente desarrollando videojuegos en **Unity** como proyecto universitario.
+
+---
+
+### Tecnologías que uso / Tech stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,nextjs,react,typescript,supabase,nodejs,git,github,vscode,unity,cs" />
+</p>
+
+---
+
+### Conéctate conmigo / Connect with me
 
 <p>
   <a href="https://www.linkedin.com/in/billy-patrick-arroyo-ramirez-115562189/" target="_blank">
