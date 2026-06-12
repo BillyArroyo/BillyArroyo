@@ -1,16 +1,34 @@
-## Hi there 👋
+<h1 align="center">Billy Patrick Arroyo Ramírez</h1>
+<h3 align="center">Mobile & Full Stack Developer · Huancayo, Perú</h3>
 
-<!--
-**BillyArroyo/BillyArroyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Ingeniero de Sistemas e Informática (Universidad Continental).
+Desarrollo aplicaciones móviles y web para clientes reales.
+Fundador de **CP-Techs**, agencia de desarrollo web.
+
+---
+
+### Stack
+
+**Mobile:** Flutter · Firebase  
+**Web:** Next.js · React · TypeScript · Supabase  
+**Tools:** Git · GitHub · Figma · VS Code
+
+---
+
+### Proyectos destacados
+
+| Proyecto | Descripción | Tech |
+|----------|-------------|------|
+| [FarmaLink](https://github.com/BillyArroyo) | Sistema B2B para distribuidora farmacéutica | React · Supabase |
+| FerreBoom | App móvil para ferretería (cliente + admin) | Flutter · Firebase |
+| ProyectoVideoJuegos | Videojuego 2D en equipo | Unity · C# |
+
+---
+
+<p align="center">
+  <a href="mailto:billyarroyo@gmail.com">Contacto</a>
+</p>
